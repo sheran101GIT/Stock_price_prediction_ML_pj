@@ -24,5 +24,8 @@ column6-- Address of headquarters It is company head base(main office) location
 
 ![image](https://github.com/user-attachments/assets/aef8592c-a4fe-484c-aa13-bd4584523c4d)
 
+# Reasult.csv
+it is the end result file which contains the prediction data of Microsoft 
+
 
 
