@@ -6,13 +6,13 @@ prices.csv: raw, as-is daily prices. Most of the data spans from 2010 to the end
 securities.csv: a general description of each company with the division on sectors
 
 # Libraries 
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-tensorflow
-keras
+numpy,
+pandas,
+matplotlib,
+seaborn,
+scikit-learn,
+tensorflow,
+keras, etc.
 
 # Data description
 Table consists of 504 entries of descriptions of companies.
